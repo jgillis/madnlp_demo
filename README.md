@@ -1,4 +1,4 @@
-![alt text](https://github.com/jgillis/madnlp_demo/blob/main/screen.png?raw=true)
+![Demo screen](https://github.com/jgillis/madnlp_demo/blob/main/screen.png)
 
 To run the demo:
  * Get access to a workstation with linux and a CUDA-enablde GPU
